@@ -15,15 +15,15 @@ conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=9.0 -c pytorch
 pip install gensim==3.8.1
 ```
 ## Data
-* Pretrained FastText embeddings for Sanskrit can be obtained from [here]().
+* Pretrained FastText embeddings for Sanskrit can be obtained from [here](https://drive.google.com/drive/folders/1JJMBjUZdqUY7WLYefBbA2zKaMHH3Mm18?usp=sharing). Make sure that `.vec` file is placed at approprite position.
 * For Multilingual experiments, we use [UD treebanks](https://universaldependencies.org/) and [Pretrained FastText embeddings](https://fasttext.cc/docs/en/crawl-vectors.html)
 
 
-## Running code
-If you want to run complete model then simply run bash script `run_LCM.sh`.
+## How to train model
+If you want to run complete model pipeline: (1) Pretraining (2) Integration, then simply run bash script `run_san_LCM.sh`.
 
 ```bash
-bash run_LCM.sh
+bash run_san_LCM.sh
 
 ```
 
