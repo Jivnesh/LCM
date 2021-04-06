@@ -1,4 +1,4 @@
-Official code for the paper ["A Little Pretraining Goes a Long Way: A Case Study on Dependency Parsing Task for Low-resource Morphologically Rich Languages"]().
+Official code for the paper ["A Little Pretraining Goes a Long Way: A Case Study on Dependency Parsing Task for Low-resource Morphologically Rich Languages"](https://arxiv.org/abs/2102.06551).
 If you use this code please cite our paper.
 
 ## Requirements
