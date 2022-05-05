@@ -35,11 +35,7 @@ If you use our tool, we'd appreciate if you cite the following paper:
 ```
 @inproceedings{sandhan-etal-2021-little,
     title = "A Little Pretraining Goes a Long Way: A Case Study on Dependency Parsing Task for Low-resource Morphologically Rich Languages",
-    author = "Sandhan, Jivnesh  and
-      Krishna, Amrith  and
-      Gupta, Ashim  and
-      Behera, Laxmidhar  and
-      Goyal, Pawan",
+    author = "Sandhan, Jivnesh  and Krishna, Amrith  and Gupta, Ashim  and Behera, Laxmidhar  and Goyal, Pawan",
     booktitle = "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop",
     month = apr,
     year = "2021",
